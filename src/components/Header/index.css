@@ -1,0 +1,23 @@
+.focusLogo {
+    height: 50px;
+}
+
+.navCon {
+    color: #1F1F1F;
+    width: 95%;
+
+}
+
+
+.navListCon {
+    width: 50%;
+}
+
+.routerLinkUnsetStyles {
+    all: unset;
+}
+
+.routerLinkUnsetStyles:hover {
+    all: unset;
+    cursor: pointer;
+}

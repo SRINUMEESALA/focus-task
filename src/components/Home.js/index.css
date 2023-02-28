@@ -1,0 +1,47 @@
+.contentCon {
+    width: 90%;
+}
+
+@media screen and (min-width:756px) {
+    .listCon {
+        width: 50vw;
+        height: 77vh;
+    }
+}
+
+@media screen and (max-width:756px) {
+    .listCon {
+        width: 80vw;
+        height: 77vh;
+    }
+}
+
+
+.itemCon {
+    background-color: #F2F2F2;
+}
+
+.parentIntro {
+    background-color: #880e4f;
+
+}
+
+.cardsParentCon {
+    background-color: #d7d7e9;
+}
+
+.whereWeStartedCon {
+    margin-top: 50px;
+}
+
+.profilePic {
+    height: 65px;
+}
+
+.homeParentCon {
+    position: relative;
+}
+
+.loadingCon {
+    height: 30vh;
+}
